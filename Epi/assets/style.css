@@ -1,0 +1,31 @@
+/* IMPOSTAZIONI GENERALI */
+body {
+    background-image: url(sfondo.epi.png);
+    background-attachment: fixed;
+}
+
+/* HEADER */
+.quadrato.h3, {
+    background-color: rgb(26, 202, 202);
+    color: #ffffffe4;
+}
+
+/* MAIN */
+ol li {
+    
+}
+
+/* ELEMENTI NEL MAIN - ARTICLE */
+
+/* TABELLE */
+
+/* FORM */
+
+/* ELEMENTI NELL' ASIDE */
+
+/* FOOTER */
+header {
+    font-style: oblique;
+    font-size: medium;
+}
+
