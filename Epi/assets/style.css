@@ -1,19 +1,8 @@
 /* IMPOSTAZIONI GENERALI */
-body {
-    background-image: url(sfondo.epi.png);
-    background-attachment: fixed;
-}
 
-/* HEADER */
-.quadrato.h3, {
-    background-color: rgb(26, 202, 202);
-    color: #ffffffe4;
-}
 
 /* MAIN */
-ol li {
-    
-}
+
 
 /* ELEMENTI NEL MAIN - ARTICLE */
 
@@ -23,9 +12,37 @@ ol li {
 
 /* ELEMENTI NELL' ASIDE */
 
-/* FOOTER */
-header {
-    font-style: oblique;
-    font-size: medium;
+
+/* IMPOSTAZIONI GENERALI */
+.body {
+    background-image: url(sfondo.epi.png);
+    background-attachment: fixed;
 }
+
+/* HEADER */
+.quadrato {
+    background-color: rgb(23, 162, 162);
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    box-shadow: 0px 5px 20px; color: rgb(9, 128, 128);
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+header img {
+    width: 200px;
+}
+/* MAIN */
+
+/* ELEMENTI NEL MAIN - ARTICLE */
+
+/* TABELLE */
+
+/* FORM */
+
+
+/* ELEMENTI NELL' ASIDE */
+
+/* FOOTER */
 
